@@ -2,14 +2,7 @@
 
 You can call me Stan.
 
-I have 5+ years experience building websites. Currently I'm focused on frontend development, but I aspire to be a fullstack JavaScript developer. Then when I'm 83, I'll work on learning another language 😑. I hear Go is a lot of fun. 
-
-If you have any advice, or wisdom for me, I'd love to hear it!
-
-[![Website badge](https://img.shields.io/badge/-stanclarkejr.ca-4285f4?style=social&logo=Google-Chrome&link=https://stanclarkejr.ca)](https://stanclarkejr.ca)
-[![Gmail badge](https://img.shields.io/badge/-hi-ea4335?style=social&logo=Gmail&link=mailto:hi@stanclarkejr.ca?subject=Hi%20Stan!)](mailto:hi@stanclarkejr.ca?subject=Hi%20Stan!)
-[![Twitter badge](https://img.shields.io/badge/-@stanclarkejr-1ca0f1?style=social&logo=twitter&link=https://twitter.com/stanclarkejr)](https://twitter.com/stanclarkejr)
-[![Linkedin badge](https://img.shields.io/badge/-Stan%20Clarke%2C%20Jr.-blue?style=social&logo=Linkedin&link=https://www.linkedin.com/in/stan-clarke-jr/)](https://www.linkedin.com/in/stan-clarke-jr/)
+I have 5+ years experience building websites. Currently I'm focused on frontend development, but I aspire to be a fullstack JavaScript developer. Then when I'm 83, I'll work on learning another language 😑. I hear Go is a lot of fun.
 
 #### Revolving door of tech tools
 
@@ -30,6 +23,14 @@ If you have any advice, or wisdom for me, I'd love to hear it!
 ![WordPress badge](https://img.shields.io/badge/-WordPress-21759b?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Shopify badge](https://img.shields.io/badge/-Shopify-7ab55c?style=for-the-badge&logo=Shopify&logoColor=white)
 ![GitHub badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
+
+<br/>
+
+[![Website badge](https://img.shields.io/badge/-stanclarkejr.ca-4285f4?style=social&logo=Google-Chrome&link=https://stanclarkejr.ca)](https://stanclarkejr.ca)
+[![Gmail badge](https://img.shields.io/badge/-hi-ea4335?style=social&logo=Gmail&link=mailto:hi@stanclarkejr.ca?subject=Hi%20Stan!)](mailto:hi@stanclarkejr.ca?subject=Hi%20Stan!)
+[![Twitter badge](https://img.shields.io/badge/-@stanclarkejr-1ca0f1?style=social&logo=twitter&link=https://twitter.com/stanclarkejr)](https://twitter.com/stanclarkejr)
+[![Linkedin badge](https://img.shields.io/badge/-Stan%20Clarke%2C%20Jr.-blue?style=social&logo=Linkedin&link=https://www.linkedin.com/in/stan-clarke-jr/)](https://www.linkedin.com/in/stan-clarke-jr/)
+
 <br/>
 
 Not sure who said it, but I like it:
