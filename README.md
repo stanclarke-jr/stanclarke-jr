@@ -11,9 +11,7 @@ If you have any advice, or wisdom for me, I'd love to hear it!
 [![Twitter badge](https://img.shields.io/badge/-@stanclarkejr-1ca0f1?style=social&logo=twitter&link=https://twitter.com/stanclarkejr)](https://twitter.com/stanclarkejr)
 [![Linkedin badge](https://img.shields.io/badge/-Stan%20Clarke%2C%20Jr.-blue?style=social&logo=Linkedin&link=https://www.linkedin.com/in/stan-clarke-jr/)](https://www.linkedin.com/in/stan-clarke-jr/)
 
-<br/>
-
-### Revolving door of tech tools
+#### Revolving door of tech tools
 
 ![VS Code badge](https://img.shields.io/badge/-VS%20Code-007acc?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![HTML badge](https://img.shields.io/badge/-HTML-e34f26?style=for-the-badge&logo=HTML5&logoColor=white)
