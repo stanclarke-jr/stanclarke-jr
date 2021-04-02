@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hey, you can call me Stan.
 
-<!--
-**stanclarke-jr/stanclarke-jr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have 5+ years experience building websites. Currently I'm focused on frontend development, but I aspire to be a fullstack JavaScript developer. Then when I'm 83, I'll work on learning another language 😑. I hear Go is a lot of fun. 
 
-Here are some ideas to get you started:
+If you have any advice, wisdom for me, I'd love to hear it!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+####
+![](
+<a href="https://stanclarkejr.ca/" target="_blank"><img src="" alt="Website" width="30"></a>
+<a href="https://twitter.com/stanclarkejr" target="_blank"><img src="" alt="Twitter" width="30"></a>
+<a href="https://www.linkedin.com/in/stan-clarke-jr" target="_blank"><img src="" alt="LinkedIn" width="30"></a>
+<a href="https://github.com/stanclarke-jr" target="_blank"><img src="g" alt="GitHub" width="30"></a>
+
+[![Gmail Badge](https://img.shields.io/badge/-hi-ea4335?style=social&logo=Gmail&link=mailto:hi@stanclarkejr.ca?subject=Hi%20Stan!)](mailto:hi@stanclarkejr.ca?subject=Hi%20Stan!)
+[![Twitter Badge](https://img.shields.io/badge/-Stan%20Clarke%2C%20Jr.-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/stanclarkejr)](https://twitter.com/stanclarkejr)
+[![Linkedin Badge](https://img.shields.io/badge/-Stan%20Clarke%2C%20Jr.-blue?style=social&logo=Linkedin&logColor=blue&link=https://www.linkedin.com/in/stan-clarke-jr/)](https://www.linkedin.com/in/stan-clarke-jr/) 
+
+Not sure who said it, but I like it:
+
+> *Strive for progress, not perfection.*
+
+
+
