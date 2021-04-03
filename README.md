@@ -2,7 +2,7 @@
 
 You can call me Stan.
 
-I have 5+ years experience building websites. Currently I'm focused on frontend development, but I aspire to be a fullstack JavaScript developer. Then when I'm 83, I'll work on learning another language 😑. I hear Go is a lot of fun.
+Currently I'm focused on learning everything I can about frontend development, but I aspire to be a fullstack JavaScript developer. Then when I'm 83, I'll work on learning another language 😑. I hear Go is a lot of fun.
 
 #### Revolving door of tech tools
 
