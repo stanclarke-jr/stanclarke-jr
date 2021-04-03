@@ -1,8 +1,8 @@
 ### You found me!
 
-You can call me Stan.
+![Header intro image](https://user-images.githubusercontent.com/57962165/113486056-db3e1080-947e-11eb-9a3a-32574160acfd.png?raw=true)
 
-Currently I'm focused on learning everything I can about frontend development, but I aspire to be a fullstack JavaScript developer. Then when I'm 83, I'll work on learning another language 😑. I hear Go is a lot of fun.
+My current focus is frontend development, but I aspire to be a fullstack JavaScript developer. Then when I'm 83, I'll work on learning another language 😑. I hear Go is a lot of fun.
 
 #### Revolving door of tech tools
 
