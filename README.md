@@ -25,6 +25,8 @@ My current focus is frontend development, but I aspire to be a fullstack JavaScr
 ![WordPress badge](https://img.shields.io/badge/-WordPress-21759b?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Shopify badge](https://img.shields.io/badge/-Shopify-7ab55c?style=for-the-badge&logo=Shopify&logoColor=white)
 ![GitHub badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
+![Google badge](https://img.shields.io/badge/-Google-4285f4?style=for-the-badge&logo=Google&logoColor=white)
+
 
 <br/>
 
