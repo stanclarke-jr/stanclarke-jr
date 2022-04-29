@@ -2,7 +2,7 @@
 
 ![Header intro image](https://user-images.githubusercontent.com/57962165/113486056-db3e1080-947e-11eb-9a3a-32574160acfd.png?raw=true)
 
-My current focus is frontend development, but I aspire to be a fullstack JavaScript developer. Then when I'm 83, I'll work on learning another language 😑. I hear Go is a lot of fun.
+My current focus is fullstack JavaScript development. Then when I'm 83, I'll work on learning another language 😑.
 
 #### Revolving door of tech tools
 
@@ -10,21 +10,28 @@ My current focus is frontend development, but I aspire to be a fullstack JavaScr
 ![HTML badge](https://img.shields.io/badge/-HTML-e34f26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS badge](https://img.shields.io/badge/-CSS-1572b6?style=for-the-badge&logo=CSS3&logoColor=white)
 ![JavaScript badge](https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logo=JavaScript&logoColor=black)
-![Markdown badge](https://img.shields.io/badge/-Markdown-000?style=for-the-badge&logo=Markdown&logoColor=white)
-![Gatsby badge](https://img.shields.io/badge/-Gatsby-663399?style=for-the-badge&logo=Gatsby&logoColor=white)
 ![React badge](https://img.shields.io/badge/-React-61dafb?style=for-the-badge&logo=React&logoColor=black)
-![styled-components badge](https://img.shields.io/badge/-styled--components-db7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![GraphQL badge](https://img.shields.io/badge/-Graph%20QL-e10098?style=for-the-badge&logo=GraphQL&logoColor=white)
-![Netlify badge](https://img.shields.io/badge/-Netlify-00c7b7?style=for-the-badge&logo=Netlify&logoColor=white)
 ![Node.js badge](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![Express.js badge](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![styled-components badge](https://img.shields.io/badge/-styled--components-db7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![TailwindCSS badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Netlify badge](https://img.shields.io/badge/-Netlify-00c7b7?style=for-the-badge&logo=Netlify&logoColor=white)
+![Gatsby badge](https://img.shields.io/badge/-Gatsby-663399?style=for-the-badge&logo=Gatsby&logoColor=white)
 ![Yarn badge](https://img.shields.io/badge/-Yarn-2c8ebb?style=for-the-badge&logo=Yarn&logoColor=white)
 ![Linux badge](https://img.shields.io/badge/-Linux-fcc624?style=for-the-badge&logo=Linux&logoColor=black)
+![Markdown badge](https://img.shields.io/badge/-Markdown-000?style=for-the-badge&logo=Markdown&logoColor=white)
 ![MariaDB badge](https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white)
 ![NGINX badge](https://img.shields.io/badge/-NGINX-009369?style=for-the-badge&logo=NGINX&logoColor=white)
 ![WordPress badge](https://img.shields.io/badge/-WordPress-21759b?style=for-the-badge&logo=WordPress&logoColor=white)
 ![GitHub badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
-![Google badge](https://img.shields.io/badge/-Google-4285f4?style=for-the-badge&logo=Google&logoColor=white)
+<!-- ![Google badge](https://img.shields.io/badge/-Google-4285f4?style=for-the-badge&logo=Google&logoColor=white) -->
 <!-- ![Vercel badge](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=Vercel&logoColor=white) -->
+<!-- ![GraphQL badge](https://img.shields.io/badge/-Graph%20QL-e10098?style=for-the-badge&logo=GraphQL&logoColor=white) -->
+<!-- ![Shopify badge](https://img.shields.io/badge/shopify-8DB543?style=for-the-badge&logo=Shopify&logoColor=white)-->
+<!-- ![Redux badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)-->
+<!-- ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) -->
 
 <br/>
 
