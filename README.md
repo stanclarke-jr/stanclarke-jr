@@ -1,5 +1,3 @@
-### You found me!
-
 ![Header intro image](https://user-images.githubusercontent.com/57962165/113486056-db3e1080-947e-11eb-9a3a-32574160acfd.png?raw=true)
 
 My current focus is fullstack JavaScript development. Then when I'm 83, I'll work on learning another language 😑.
