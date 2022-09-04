@@ -12,9 +12,6 @@ My current focus is fullstack JavaScript development. Then when I'm 83, I'll wor
 ![Node.js badge](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Express.js badge](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![MongoDB badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-<!-- ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) -->
-<!-- ![Redux badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) -->
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![styled-components badge](https://img.shields.io/badge/-styled--components-db7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![TailwindCSS badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
@@ -29,6 +26,9 @@ My current focus is fullstack JavaScript development. Then when I'm 83, I'll wor
 ![WordPress badge](https://img.shields.io/badge/-WordPress-21759b?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
+<!-- ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) -->
+<!-- ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) -->
+<!-- ![Redux badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) -->
 <!-- ![Google badge](https://img.shields.io/badge/-Google-4285f4?style=for-the-badge&logo=Google&logoColor=white) -->
 <!-- ![Vercel badge](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=Vercel&logoColor=white) -->
 <!-- ![GraphQL badge](https://img.shields.io/badge/-Graph%20QL-e10098?style=for-the-badge&logo=GraphQL&logoColor=white) -->
